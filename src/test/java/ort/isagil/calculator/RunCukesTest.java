@@ -1,3 +1,7 @@
+/**
+ * @author jprusso
+*/
+
 package ort.isagil.calculator;
 
 import cucumber.api.junit.Cucumber;
