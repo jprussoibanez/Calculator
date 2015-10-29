@@ -1,3 +1,6 @@
+/*
+Author: JP
+*/
 package ort.isagil.calculator.model;
 
 public class Money {
