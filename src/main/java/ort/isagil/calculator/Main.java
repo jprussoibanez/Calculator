@@ -17,7 +17,7 @@ public class Main {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        Money primerMoneda = new Money(100, "UY");
+        Money primerMoneda = new Money(100, "UYU");
         Money segundaMoneda = new Money(1, "USD");
         
         ExchangeRate tipoDeCambio = new ExchangeRate("USD", "UY", 28);
