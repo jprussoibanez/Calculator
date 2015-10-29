@@ -4,7 +4,7 @@ import static org.junit.Assert.*;
 import cucumber.api.java.es.*;
 import ort.isagil.calculator.model.*;
 
-public class ExchangeRateStepDef {
+public class ExchangeRateSt epDef {
     private ExchangeRate tipoDeCambio;
     private Money resultado;
     
