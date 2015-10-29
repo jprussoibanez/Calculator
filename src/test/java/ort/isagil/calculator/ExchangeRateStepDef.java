@@ -3,7 +3,7 @@ package ort.isagil.calculator;
 import static org.junit.Assert.*;
 import cucumber.api.java.es.*;
 import ort.isagil.calculator.model.*;
-
+// agregando un comentario
 public class ExchangeRateStepDef {
     private ExchangeRate tipoDeCambio;
     private Money resultado;
