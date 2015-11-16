@@ -9,7 +9,7 @@ public class MoneyStepDef {
     private Money segundaMoneda;
     private Money resultado;
     private ExchangeRate tipoDeCambio;
-
+    // comentario para pobar cukes
     @Dado("^las monedas \"(.*?)\" (\\d+) y \"(.*?)\" (\\d+)$")
     public void dadasLasMonedas(String tipoPrimerMoneda,
                                 int montoPrimerMoneda,
